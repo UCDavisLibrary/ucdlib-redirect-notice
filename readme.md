@@ -12,7 +12,7 @@ This should primarily be used for recently deprecated internal-facing applicatio
 </script>
 
 <ucdlib-redirect-notice redirect-location="https://library.ucdavis.edu">
-<ucdlib-redirect-notice>
+</ucdlib-redirect-notice>
 ```
 
 For more advanced use cases, see the examples directory.
